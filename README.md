@@ -5,7 +5,8 @@
 - 🤔 I’m looking for help with Javascript
 - 📫 How to reach me: namantiwariofficial23@gmail.com
 - ⚡ Fun fact: Your website has 10 or fewer seconds to leave an impression on users.
-- 📲Linkedin: https://www.linkedin.com/in/naman-tiwari-9a5067175/
-- 📖Blog:https://hashnode.com/@namantiwari
+### Connect with me:
+[![website](./img/twitter-light.svg)](https://twitter.com/namdev2023#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/namdev2023#gh-dark-mode-only)
 
 
