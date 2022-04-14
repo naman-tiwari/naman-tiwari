@@ -8,5 +8,4 @@
 - 📲Linkedin: https://www.linkedin.com/in/naman-tiwari-9a5067175/
 - 📖Blog:https://hashnode.com/@namantiwari
 
-
-- [![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=naman-tiwari)](https://github.com/naman-tiwari/github-readme-stats)
+ [![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=naman-tiwari)](https://github.com/naman-tiwari/github-readme-stats)
