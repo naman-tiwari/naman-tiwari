@@ -9,4 +9,4 @@
 - 📖Blog:https://hashnode.com/@namantiwari
 
  [![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=naman-tiwari&show_icons=true&theme=radical)](https://github.com/naman-tiwari/github-readme-stats)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naman-tiwari&repo=github-readme-stats)](https://github.com/naman-tiwari/github-readme-stats)
+ 
