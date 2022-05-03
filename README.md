@@ -24,5 +24,5 @@
 
 
 ### :man_technologist: About Me :
-- I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="30"> from India.
   - 
