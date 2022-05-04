@@ -29,9 +29,9 @@
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#28](https://github.com/asyncapi/design-system/issues/28) in [asyncapi/design-system](https://github.com/asyncapi/design-system)
-2. ❗️ Opened issue [#3921](https://github.com/EddieHubCommunity/support/issues/3921) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 🗣 Commented on [#328](https://github.com/asyncapi/community/issues/328) in [asyncapi/community](https://github.com/asyncapi/community)
-4. 🗣 Commented on [#4](https://github.com/asyncapi/design-system/issues/4) in [asyncapi/design-system](https://github.com/asyncapi/design-system)
-5. 💪 Opened PR [#1393](https://github.com/commclassroom/commclassroomOP/pull/1393) in [commclassroom/commclassroomOP](https://github.com/commclassroom/commclassroomOP)
+1. 🗣 Commented on [#4](https://github.com/asyncapi/design-system/issues/4) in [asyncapi/design-system](https://github.com/asyncapi/design-system)
+2. ❗️ Opened issue [#28](https://github.com/asyncapi/design-system/issues/28) in [asyncapi/design-system](https://github.com/asyncapi/design-system)
+3. ❗️ Opened issue [#3921](https://github.com/EddieHubCommunity/support/issues/3921) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🗣 Commented on [#328](https://github.com/asyncapi/community/issues/328) in [asyncapi/community](https://github.com/asyncapi/community)
+5. 🗣 Commented on [#4](https://github.com/asyncapi/design-system/issues/4) in [asyncapi/design-system](https://github.com/asyncapi/design-system)
 <!--END_SECTION:activity-->
