@@ -24,6 +24,5 @@
 
 
 ### :man_technologist: About Me :
- I'm an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="30">.
- I'm currently exploring Cloud-native <img src="https://media.giphy.com/media/fvY8JtKw8Bx3bXYlIi/giphy-downsized-large.gif" width="30">
-  - 
+- I'm an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="30">.
+- I'm currently exploring Cloud-native <img src="https://media.giphy.com/media/fvY8JtKw8Bx3bXYlIi/giphy-downsized-large.gif" width="30">
