@@ -29,11 +29,11 @@
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/naman-tiwari/design-system/pull/1) in [naman-tiwari/design-system](https://github.com/naman-tiwari/design-system)
-2. 💪 Opened PR [#1](https://github.com/naman-tiwari/design-system/pull/1) in [naman-tiwari/design-system](https://github.com/naman-tiwari/design-system)
-3. 🗣 Commented on [#29](https://github.com/asyncapi/design-system/issues/29) in [asyncapi/design-system](https://github.com/asyncapi/design-system)
-4. 🗣 Commented on [#30](https://github.com/asyncapi/design-system/issues/30) in [asyncapi/design-system](https://github.com/asyncapi/design-system)
-5. ❗️ Opened issue [#30](https://github.com/asyncapi/design-system/issues/30) in [asyncapi/design-system](https://github.com/asyncapi/design-system)
+1. 💪 Opened PR [#1278](https://github.com/EddieHubCommunity/LinkFree/pull/1278) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 🎉 Merged PR [#1](https://github.com/naman-tiwari/design-system/pull/1) in [naman-tiwari/design-system](https://github.com/naman-tiwari/design-system)
+3. 💪 Opened PR [#1](https://github.com/naman-tiwari/design-system/pull/1) in [naman-tiwari/design-system](https://github.com/naman-tiwari/design-system)
+4. 🗣 Commented on [#29](https://github.com/asyncapi/design-system/issues/29) in [asyncapi/design-system](https://github.com/asyncapi/design-system)
+5. 🗣 Commented on [#30](https://github.com/asyncapi/design-system/issues/30) in [asyncapi/design-system](https://github.com/asyncapi/design-system)
 <!--END_SECTION:activity-->
 ---
 ### :hammer_and_wrench: Languages and Tools :
