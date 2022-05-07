@@ -24,9 +24,15 @@
 
 ---
 ### :man_technologist: About Me :
-- I'm an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="30">.
-- I'm currently exploring Cloud-native <img src="https://media.giphy.com/media/fvY8JtKw8Bx3bXYlIi/giphy-downsized-large.gif" width="30">
+- :heart_on_fire: I'm an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="30">.
+- :telescope: I'm currently exploring Cloud-native <img src="https://media.giphy.com/media/fvY8JtKw8Bx3bXYlIi/giphy-downsized-large.gif" width="20">
+
+- :bust_in_silhouette: How to reach me : namantiwariofficial23@gmail.com
+
+
+
 ---
+
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1278](https://github.com/EddieHubCommunity/LinkFree/issues/1278) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
@@ -54,3 +60,5 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naman-tiwari&theme=neon-palenight&date_format=j%20M%5B%20Y%5D&fire=DD6625)](https://git.io/streak-stats)
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naman-tiwari)](https://github.com/anuraghazra/github-readme-stats)-->
