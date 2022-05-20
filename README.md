@@ -17,7 +17,8 @@ Aspiring Full-stack developer (MERN)🧑🏻‍💻| Exploring cloud-native | Op
 src="https://img.shields.io/twitter/follow/namdev2023?logo=twitter&style=for-the-badge&color=facc15&labelColor=581c87"
 /></a>
 
-### Skills
+---
+### :crossed_swords: Skills
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -43,11 +44,13 @@ src="https://img.shields.io/twitter/follow/namdev2023?logo=twitter&style=for-the
 </p>
 
 
-### Socials
+---
+### :thread: Socials
 
 <p align="left"> <a href="https://www.dev.to/namantiwari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Naman#5636" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/naman-tiwari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://hashnode.com/@namantiwari.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/naman.tiwari.23" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/naman-tiwari-9a5067175" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.polywork.com/namantiwari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@namantiwari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/18724641/naman-tiwari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/namdev2023" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/namantiwari2001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
 
+---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. ❌ Reopened PR [#34](https://github.com/asyncapi/design-system/pull/34) in [asyncapi/design-system](https://github.com/asyncapi/design-system)
@@ -56,9 +59,12 @@ src="https://img.shields.io/twitter/follow/namdev2023?logo=twitter&style=for-the
 4. 🗣 Commented on [#29](https://github.com/asyncapi/design-system/issues/29) in [asyncapi/design-system](https://github.com/asyncapi/design-system)
 5. 🗣 Commented on [#1278](https://github.com/EddieHubCommunity/LinkFree/issues/1278) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
-### Badges
+
+---
+### :name_badge: Badges
 
 <b>My GitHub Stats</b>
+-------------
 
 <a href="http://www.github.com/naman-tiwari"><img src="https://github-readme-stats.vercel.app/api?username=naman-tiwari&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=581c87&hide_border=true&show_icons=true" alt="naman-tiwari's GitHub stats" /></a>
 
