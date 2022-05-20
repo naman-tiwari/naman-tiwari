@@ -50,11 +50,11 @@ src="https://img.shields.io/twitter/follow/namdev2023?logo=twitter&style=for-the
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/asyncapi/design-system/issues/29) in [asyncapi/design-system](https://github.com/asyncapi/design-system)
-2. 🗣 Commented on [#1278](https://github.com/EddieHubCommunity/LinkFree/issues/1278) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. 💪 Opened PR [#1278](https://github.com/EddieHubCommunity/LinkFree/pull/1278) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. 🎉 Merged PR [#1](https://github.com/naman-tiwari/design-system/pull/1) in [naman-tiwari/design-system](https://github.com/naman-tiwari/design-system)
-5. 💪 Opened PR [#1](https://github.com/naman-tiwari/design-system/pull/1) in [naman-tiwari/design-system](https://github.com/naman-tiwari/design-system)
+1. ❌ Reopened PR [#34](https://github.com/asyncapi/design-system/pull/34) in [asyncapi/design-system](https://github.com/asyncapi/design-system)
+2. ❌ Closed PR [#34](https://github.com/asyncapi/design-system/pull/34) in [asyncapi/design-system](https://github.com/asyncapi/design-system)
+3. 💪 Opened PR [#34](https://github.com/asyncapi/design-system/pull/34) in [asyncapi/design-system](https://github.com/asyncapi/design-system)
+4. 🗣 Commented on [#29](https://github.com/asyncapi/design-system/issues/29) in [asyncapi/design-system](https://github.com/asyncapi/design-system)
+5. 🗣 Commented on [#1278](https://github.com/EddieHubCommunity/LinkFree/issues/1278) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
 ### Badges
 
