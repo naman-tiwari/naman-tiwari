@@ -53,11 +53,11 @@ src="https://img.shields.io/twitter/follow/namdev2023?logo=twitter&style=for-the
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#34](https://github.com/asyncapi/design-system/pull/34) in [asyncapi/design-system](https://github.com/asyncapi/design-system)
-2. ❌ Reopened PR [#34](https://github.com/asyncapi/design-system/pull/34) in [asyncapi/design-system](https://github.com/asyncapi/design-system)
-3. ❌ Closed PR [#34](https://github.com/asyncapi/design-system/pull/34) in [asyncapi/design-system](https://github.com/asyncapi/design-system)
-4. 💪 Opened PR [#34](https://github.com/asyncapi/design-system/pull/34) in [asyncapi/design-system](https://github.com/asyncapi/design-system)
-5. 🗣 Commented on [#29](https://github.com/asyncapi/design-system/issues/29) in [asyncapi/design-system](https://github.com/asyncapi/design-system)
+1. ❌ Reopened PR [#34](https://github.com/asyncapi/design-system/pull/34) in [asyncapi/design-system](https://github.com/asyncapi/design-system)
+2. ❌ Closed PR [#34](https://github.com/asyncapi/design-system/pull/34) in [asyncapi/design-system](https://github.com/asyncapi/design-system)
+3. ❌ Reopened PR [#34](https://github.com/asyncapi/design-system/pull/34) in [asyncapi/design-system](https://github.com/asyncapi/design-system)
+4. ❌ Closed PR [#34](https://github.com/asyncapi/design-system/pull/34) in [asyncapi/design-system](https://github.com/asyncapi/design-system)
+5. 💪 Opened PR [#34](https://github.com/asyncapi/design-system/pull/34) in [asyncapi/design-system](https://github.com/asyncapi/design-system)
 <!--END_SECTION:activity-->
 
 ---
