@@ -54,10 +54,10 @@ src="https://img.shields.io/twitter/follow/namdev2023?logo=twitter&style=for-the
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#36](https://github.com/asyncapi/design-system/issues/36) in [asyncapi/design-system](https://github.com/asyncapi/design-system)
-2. 💪 Opened PR [#36](https://github.com/asyncapi/design-system/pull/36) in [asyncapi/design-system](https://github.com/asyncapi/design-system)
-3. ❌ Closed PR [#1](https://github.com/naman-tiwari/design-system/pull/1) in [naman-tiwari/design-system](https://github.com/naman-tiwari/design-system)
-4. 🎉 Merged PR [#3](https://github.com/naman-tiwari/design-system/pull/3) in [naman-tiwari/design-system](https://github.com/naman-tiwari/design-system)
-5. 💪 Opened PR [#3](https://github.com/naman-tiwari/design-system/pull/3) in [naman-tiwari/design-system](https://github.com/naman-tiwari/design-system)
+2. 🗣 Commented on [#36](https://github.com/asyncapi/design-system/issues/36) in [asyncapi/design-system](https://github.com/asyncapi/design-system)
+3. 💪 Opened PR [#36](https://github.com/asyncapi/design-system/pull/36) in [asyncapi/design-system](https://github.com/asyncapi/design-system)
+4. ❌ Closed PR [#1](https://github.com/naman-tiwari/design-system/pull/1) in [naman-tiwari/design-system](https://github.com/naman-tiwari/design-system)
+5. 🎉 Merged PR [#3](https://github.com/naman-tiwari/design-system/pull/3) in [naman-tiwari/design-system](https://github.com/naman-tiwari/design-system)
 <!--END_SECTION:activity-->
 
 ---
