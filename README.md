@@ -1,6 +1,5 @@
 <h1>
-  Hi there I'm Naman
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>
+  Hi there I'm Naman 👋🏼
 </h1>
 
 Front-end developer (MERN)🧑🏻‍💻| Open-Source Contributor🚀| Exploring devops💫
