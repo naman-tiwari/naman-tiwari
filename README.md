@@ -2,7 +2,7 @@
   Hi there I'm Naman 👋🏼
 </h1>
 
-Computer Vision🧑🏻‍💻| AI🚀| Curiuos💫
+Computer Vision🧑🏻‍💻| AI🚀| Deep Learning💫
 -------------
 
 
@@ -14,10 +14,6 @@ Computer Vision🧑🏻‍💻| AI🚀| Curiuos💫
 <a href="https://www.twitter.com/namdev2023" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/namdev2023?logo=twitter&style=for-the-badge&color=facc15&labelColor=581c87"
 /></a>
-
----
-### :crossed_swords: Skills
-
 
 ---
 ### :thread: Socials
@@ -36,15 +32,3 @@ src="https://img.shields.io/twitter/follow/namdev2023?logo=twitter&style=for-the
 <!--END_SECTION:activity-->
 
 ---
-### :name_badge: Badges
-
-<b>My GitHub Stats</b>
--------------
-
-<a href="http://www.github.com/naman-tiwari"><img src="https://github-readme-stats.vercel.app/api?username=naman-tiwari&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=581c87&hide_border=true&show_icons=true" alt="naman-tiwari's GitHub stats" /></a>
-
-<a href="http://www.github.com/naman-tiwari"><img src="https://github-readme-streak-stats.herokuapp.com/?user=naman-tiwari&stroke=ffffff&background=581c87&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/naman-tiwari"><img src="https://activity-graph.herokuapp.com/graph?username=naman-tiwari&bg_color=581c87&color=ffffff&line=facc15&point=ffffff&area_color=581c87&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/naman-tiwari" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman-tiwari&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
