@@ -7,7 +7,6 @@ Computer Vision🧑🏻‍💻| AI🚀| Deep Learning💫
 
 
 * 🌍  I'm based in Bengaluru, India
-* 🧠  I'm currently Image Processing using Python
 * 🤝  I'm interested in cooperating on projects based on Computer Vision with respect to AI
 * ✉️  You can contact me at [namantiwariofficial23@gmail.com](mailto:namantiwariofficial23@gmail.com)
 
