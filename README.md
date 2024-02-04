@@ -7,7 +7,7 @@ Computer Vision🧑🏻‍💻| AI🚀| Deep Learning💫
 
 
 * 🌍  I'm based in Bengaluru, India
-* 🤝  I'm interested in cooperating on projects based on Computer Vision with respect to AI
+* 🤝  Learning Genrative AI
 * ✉️  You can contact me at [namantiwariofficial23@gmail.com](mailto:namantiwariofficial23@gmail.com)
 
 <a href="https://www.twitter.com/namdev2023" target="_blank" rel="noreferrer"><img
