@@ -7,7 +7,7 @@ Deep Learning💫| Generative AI |
 
 
 * 🌍  I'm based in Bengaluru, India
-* 🤝  Currently learning Genrative AI
+* 🤝  Currently learning Generative AI
 * ✉️  You can contact me at [namantiwariofficial23@gmail.com](mailto:namantiwariofficial23@gmail.com)
 
 <a href="https://www.twitter.com/DeepMindVision" target="_blank" rel="noreferrer"><img
